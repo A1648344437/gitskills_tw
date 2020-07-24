@@ -1,1 +1,1 @@
-这是一个测试的text文件
+This is test file.
